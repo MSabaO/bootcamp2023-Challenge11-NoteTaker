@@ -21,7 +21,6 @@ SO THAT I don't have to pay a graphic designer<br>
 ## Table of Contents
 
 - [How to install](#How-to-install)
-- [Walkthrough Video] (#Walkthrough-video)
 - [How to use](#usage)
 - [License](#license)
 - [Contributions](#contributions)
