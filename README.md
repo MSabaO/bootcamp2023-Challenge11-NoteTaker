@@ -20,11 +20,11 @@ SO THAT I don't have to pay a graphic designer<br>
 
 ## Table of Contents
 
-- [How to install](#installation)
-- [How to use](#instruction)
+- [How to install](#How_to_install)
+- [How to use](#usage)
 - [License](#license)
 - [Contributions](#contributions)
-- [Tests](#testing)
+- [Tests](#test)
 
 
 ## How to install
