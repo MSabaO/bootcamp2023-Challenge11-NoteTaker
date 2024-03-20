@@ -23,7 +23,7 @@ SO THAT I don't have to pay a graphic designer<br>
 - [How to install](#installation)
 - [How to use](#instruction)
 - [License](#license)
-- [Contribution](#contribution)
+- [Contributions](#contributions)
 - [Tests](#testing)
 
 
