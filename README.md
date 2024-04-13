@@ -40,6 +40,8 @@ npm install
 node server.js or nodemon server.js
 
 ## Usage
+From render follow this link: https://bootcamp2023-challenge11-notetaker.onrender.com
+From terminal:<br>
 Once installed, open your terminal and navigate into the folder of this app. Write in the terminal "node index.js", and launch the server in a browser to see the note taking app.<br>
 <br>
 <b>Screenshot of the questions</b>
