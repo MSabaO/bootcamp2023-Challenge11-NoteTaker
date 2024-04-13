@@ -20,11 +20,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete<br
 
 ## Table of Contents
 
-- [How to install](#installation)
-- [How to use](#instruction)
+- [How to install](#How-to-install)
+- [How to use](#usage)
 - [License](#license)
-- [Contribution](#contribution)
-- [Tests](#testing)
+- [Contributions](#contributions)
+- [Tests](#test)
 
 ## Built With
 - Node.js
