@@ -10,7 +10,7 @@
 
 ## Description
 
-Object-oriented Programming Challenge: SVG Logo Maker
+Note taker using express.js 
 <hr>
 <b>User Story:</b><br>
 AS A small business owner <br>
