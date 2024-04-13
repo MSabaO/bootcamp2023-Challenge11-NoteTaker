@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express.js": "^1.0.0",
+    "node.js": "^0.0.1-security",
+    "uuid": "^9.0.1"
+  },
+  "name": "bootcamp2023-challenge11-notetaker",
+  "description": "<br/> <p align=\"center\">     <a href=\"https://unb.ca/cel/bootcamps/coding.html\">         <img alt=\"University of New Brunswick\" src=\"https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red\" /></a>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

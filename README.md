@@ -1,4 +1,4 @@
-# PENDING TO UPDATE bootcamp2023-Challenge10-SVGLogoGenerator
+# NoteTaker
 
 <br/>
 <p align="center">
@@ -13,9 +13,9 @@
 Object-oriented Programming Challenge: SVG Logo Maker
 <hr>
 <b>User Story:</b><br>
-AS a freelance web developer <br>
-I WANT to generate a simple logo for my projects<br>
-SO THAT I don't have to pay a graphic designer<br>
+AS A small business owner <br>
+I WANT to be able to write and save notes<br>
+SO THAT I can organize my thoughts and keep track of tasks I need to complete<br>
 
 
 ## Table of Contents
@@ -26,12 +26,18 @@ SO THAT I don't have to pay a graphic designer<br>
 - [Contribution](#contribution)
 - [Tests](#testing)
 
+## Built With
+- Node.js
+- Express.js
+-HTML, CSS, JavaScript (Frontend)
+
 
 ## How to install
-You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge10-SVGLogoGenerator. Once completed, type "npm init -y" in the console to install the node packages. <br>
+You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge11-NoteTaker.git. Once completed, type "npm init -y" in the console to install the node packages. <br>
 step by step
 npm init -y
 npm install
+node server.js or nodemon server.js
 
 
 
@@ -42,7 +48,7 @@ https://drive.google.com/file/d/1wmtY4sRh2E6LXwcbUriBvV4ldI7I8ppi/view
 
 
 ## Usage
-Once installed, open your terminal and navigate into the folder of this app "bootcamp2023-Challenge10-SVGLogoGenerator". Write in the terminal "node index.js", and you will see the questions prompting one by one, answer them and press enter. The app will show a message when it is finished.<br>
+Once installed, open your terminal and navigate into the folder of this app. Write in the terminal "node index.js", and launch the server in a browser to see the note taking app.<br>
 <br>
 <b>Screenshot of the questions</b>
 ![alt text](image.png)
@@ -64,7 +70,6 @@ N/a
 ## Author
 Hi, I'm MSabaO! The author of this application. You can see all my projects in my repository at https://github.com/MSabaO
 
-My email: test-gmail@gmail.com
 
 ## License 
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue) <br>
