@@ -39,14 +39,6 @@ npm init -y
 npm install
 node server.js or nodemon server.js
 
-
-
-### Walkthrough Video
-https://drive.google.com/file/d/1rloCU8EN1KchGI3Da3oz9DfEQgYKwPQr/view
-Test video<br>
-https://drive.google.com/file/d/1wmtY4sRh2E6LXwcbUriBvV4ldI7I8ppi/view
-
-
 ## Usage
 Once installed, open your terminal and navigate into the folder of this app. Write in the terminal "node index.js", and launch the server in a browser to see the note taking app.<br>
 <br>
